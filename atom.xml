@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gc-ocean.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-06-29T20:01:18.893Z</updated>
+    <title>MATH-OCEAN</title>
+    <updated>2019-06-29T20:02:48.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gc-ocean.github.io"/>
     <link rel="self" href="https://gc-ocean.github.io/atom.xml"/>
     <subtitle>MATH-OCEAN</subtitle>
     <logo>https://gc-ocean.github.io/images/avatar.png</logo>
     <icon>https://gc-ocean.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, MATH-OCEAN</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://gc-ocean.github.io/post/hello-gridea</id>
